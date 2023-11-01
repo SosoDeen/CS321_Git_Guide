@@ -15,4 +15,6 @@ $ git push -u origin master  # pushes to origin
 $ git diff    # shows non-staged files
 $ git checkout  # revert commit
 $ git checkout -- <filename>  # revert file
-$ git log     # view commit history
+$ git log     # view commit history'
+$ git branch <new-branch>	# make a new branch with a name
+$ git push branchName		# publishes the new branch
