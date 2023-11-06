@@ -2,7 +2,7 @@ File Path:
 cd '/c/Users/Somay/OneDrive - George Mason University - O365 Production/Year 4 - Fall 2023/CS 321/Git Guide'
 
 Making Git:
-git init  # Initiates an empty git repository
+git init  # Initiates empty git repository
 
 Commiting Changes:
 - do edits tO comMiT
